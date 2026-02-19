@@ -1,0 +1,4 @@
+# Mini Banking System - Account Data
+# Format: accountNumber,name,balance
+1001,sreenath,65000.0
+1002,Varma,1599067.0
