@@ -1,8 +1,10 @@
 # java-assingment-mini-banking-system
 
-# Mini Banking System (Java)
+## Description
 
-This is a simple menu-driven banking system developed using Java.
+This is a simple banking system created using Java. The program allows users to create an account, deposit money, withdraw money, and search for an account using the account number.
+
+All account details are saved in a file so that the data is not lost when the program is closed. This project is built to practice basic Java concepts like classes, objects, and file handling.
 
 ## Features
 
